@@ -22,4 +22,4 @@ Run `pip3 install -r requirements.txt` to install pygame.
 ## Project description
 
 It is one of the projects for Harvard's online course **CS50’s Introduction to Artificial Intelligence with Python**. There are two main files in this project: `runner.py` and `minesweeper.py`. `runner.py` was implemented by the teaching staff, and contains all of the code to run the graphical interface for the game. In `minesweeper.py`, the `Minesweeper` class was entirely implemented by the teaching staff.
-I implemented `hash`, `known_mines`, `known_safes`, `mark_mine`, and `mark_safe` functions in the `Sentence` class, and `add_knowledge`, `neighbors`, `make_safe_move`, and `make_random_move` functions in the `MinesweeperAI` class's.
+I implemented `hash`, `known_mines`, `known_safes`, `mark_mine`, and `mark_safe` functions in the `Sentence` class, and `add_knowledge`, `neighbors`, `make_safe_move`, and `make_random_move` functions in the `MinesweeperAI` class.
